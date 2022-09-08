@@ -1,5 +1,6 @@
 {
   "name": "globe-demo",
+  "author": "gauravsh",
   "version": "1.0.0",
   "description": "globe demo app",
   "keywords": [],
@@ -26,5 +27,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "engines": {
+    "node": "16.15.0"
+  }
 }
